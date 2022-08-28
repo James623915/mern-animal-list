@@ -1,5 +1,6 @@
 # mern-animal-list
-
+I would like to thank LearnWebCode on youtube https://www.youtube.com/watch?v=korRfKTDoxE&t=21s to help me learn MERN full stack
+composing of mongodb, express, react and node with full fun project. 
 ![pic1](https://user-images.githubusercontent.com/87282166/187055759-79811ecb-4b22-419f-998f-dc9484ff17b3.png)
 
 ![public](https://user-images.githubusercontent.com/87282166/187055788-1d4a95db-9b9c-443c-a474-09801be5240e.png)
